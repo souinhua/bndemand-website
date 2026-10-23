@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "flowbite": {
+      "command": "npx",
+      "args": ["-y", "flowbite-mcp"]
+    }
+  }
+}
